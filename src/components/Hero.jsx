@@ -1,5 +1,5 @@
 import './Hero.css';
-import ImageList from '../assets/images/photo-grid.png';
+import ImageList from '/images/photo-grid.png';
 
 export default function Hero() {
   return (
